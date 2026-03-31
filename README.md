@@ -4,3 +4,4 @@ Data analysis and house price prediction project
 ![living area right skewed](https://github.com/myaralbdany4-glitch/Ames-Housing-Analysis./blob/main/images/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-03-31%20194109.png?raw=true)
 ![log sale price symmetric](https://github.com/myaralbdany4-glitch/Ames-Housing-Analysis./blob/main/images/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-03-31%20194055.png?raw=true)
 ![area vs price by house age group](https://github.com/myaralbdany4-glitch/Ames-Housing-Analysis./blob/main/images/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-03-30%20230208.png?raw=true)
+![top 10 features correlated with price](https://github.com/myaralbdany4-glitch/Ames-Housing-Analysis./blob/main/images/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202026-03-30%20225802.png?raw=true)
